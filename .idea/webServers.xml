@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a8166e6f-309c-4f31-8fd2-1f09665c5066" name="Alura" url="http://localhost">
+        <fileTransfer mountedRoot="E:\xampp\php" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
